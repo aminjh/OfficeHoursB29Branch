@@ -6,10 +6,11 @@ public class Util {
     }
    public static void makeEsyToRead(){
 
+   }
 
+   public static void takeBreak(){
 
-
-        }
+   }
   
 
 }
